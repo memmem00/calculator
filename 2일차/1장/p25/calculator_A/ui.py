@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import (QApplication,QWidget,QPushButton,QVBoxLayout,
                              QLineEdit, QComboBox)
 from PyQt5.QtGui import QIcon
 from PyQt5 import QtCore
-
+#calc_a 
 
 class View(QWidget):
     
